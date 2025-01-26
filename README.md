@@ -33,7 +33,7 @@ The data was structured into:
 After cleaning and preparing the data, we embarked on a journey to uncover the stories hidden within Dublin’s fire and ambulance operations. The insights we found provide a clearer picture of the challenges, successes, and opportunities for emergency services. Here’s what the data revealed:
 
 ### The Busiest Fire Station
-Imagine the demands faced by **Tallaght Fire Station**, which handled an incredible **23,396 callouts** over the analysed period, making it the busiest station in Dublin. This sheer volume highlights Tallaght’s critical role in protecting its community and underscores the importance of optimising resources for high-demand stations like this.
+Imagine the demands faced by **Tallaght Fire Station**, which handled an incredible **23,396 callouts** over the analysed period, making it the busiest station in Dublin. This sheer volume highlights Tallaght’s critical role in protecting its community and underscores the importance of optimising resources for high demand stations like this.
 
 ### The Longest Response Time
 The longest response time tells a story of operational challenges. On **June 19, 2015**, **Kilbarrack Fire Station** responded to a **Fire GORSE** incident with a staggering response time of **9 hours, 24 minutes, and 43 seconds**. The details paint the picture:
@@ -48,14 +48,14 @@ The weekly activity trends for 2023 revealed several spikes, particularly during
 - **Week 34:** The **Dalkey Lobster Festival** and **Smithfield Fleadh** likely increased crowd densities and associated risks.
 - **Week 41:** The **Dublin Theatre Festival** brought large audiences across the city.
 
-These peaks tell us where to focus resources during high-demand periods.
+These peaks tell us where to focus resources during high demand periods.
 
 ### Incident Descriptions: Shifts Over Time
 Some incident types saw dramatic shifts. For instance:
 - **Fire Alarms** rose by **4.9% year-over-year**, reflecting heightened detection and reporting.
 - Meanwhile, **Small Fires** declined by **21%**, a sign that prevention campaigns might be working.
 
-This dual trend suggests areas for continued investment—maintaining robust alarm systems while addressing emerging fire risks.
+This dual trend suggests areas for continued investment in maintaining robust alarm systems while addressing emerging fire risks.
 
 ### Why It Matters
 This isn’t just about numbers; it’s about understanding what they mean for the people behind the callouts. When Tallaght responds to over 23,000 incidents, it represents thousands of lives potentially saved. When Kilbarrack takes nine hours to attend an incident, it’s a reminder of the logistical challenges emergency services face daily. Peaks during festivals and declines in small fires tell us how our community behaves and where proactive measures can make the biggest impact.
@@ -71,7 +71,7 @@ With this data, Dublin Fire Brigade and Ambulance Services can plan smarter, act
 ---
 
 ## Conclusion
-This project reminds us that behind every data point is a story—of a call for help, a challenge faced, or a life saved. By understanding these stories, we equip ourselves to create a safer, more resilient Dublin. The next time Tallaght answers a call, or Kilbarrack faces a long journey to assist, we’ll know that data is driving decisions to improve outcomes for all.
+This project reminds us that behind every data point is a story of a call for help, a challenge faced, or a life saved. By understanding these stories, we equip ourselves to create a safer, more resilient Dublin. The next time Tallaght answers a call, or Kilbarrack faces a long journey to assist, we’ll know that data is driving decisions to improve outcomes for all.
 
 Let’s keep transforming numbers into action, insights into progress, and challenges into opportunities.
 
