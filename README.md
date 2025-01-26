@@ -33,7 +33,7 @@ The data was structured into:
 After cleaning and preparing the data, we embarked on a journey to uncover the stories hidden within Dublin’s fire and ambulance operations. The insights we found provide a clearer picture of the challenges, successes, and opportunities for emergency services. Here’s what the data revealed:
 
 ### The Busiest Fire Station
-Imagine the demands faced by **Tallaght Fire Station**, which handled an incredible **23,396 callouts** over the analysed period, making it the busiest station in Dublin. This sheer volume highlights Tallaght’s critical role in protecting its community and underscores the importance of optimising resources for high demand stations like this.
+Imagine the demands faced by **Tallaght Fire Station**, which handled an incredible **23,396 callouts** over the analysed period, making it the busiest station in Dublin. This sheer volume highlights Tallaght’s critical role in protecting its community and underscores the importance of optimising resources for high-demand stations like this.
 
 ### The Longest Response Time
 The longest response time tells a story of operational challenges. On **June 19, 2015**, **Kilbarrack Fire Station** responded to a **Fire GORSE** incident with a staggering response time of **9 hours, 24 minutes, and 43 seconds**. The details paint the picture:
@@ -48,7 +48,7 @@ The weekly activity trends for 2023 revealed several spikes, particularly during
 - **Week 34:** The **Dalkey Lobster Festival** and **Smithfield Fleadh** likely increased crowd densities and associated risks.
 - **Week 41:** The **Dublin Theatre Festival** brought large audiences across the city.
 
-These peaks tell us where to focus resources during high demand periods.
+These peaks tell us where to focus resources during high-demand periods.
 
 ### Incident Descriptions: Shifts Over Time
 Some incident types saw dramatic shifts. For instance:
