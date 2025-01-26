@@ -27,6 +27,11 @@ The data was structured into:
   - `Dim_Station`: Station locations and identifiers.
   - `Dim_Criticality` and `Dim_Description`: Classifications for ambulance and fire incidents, respectively.
 
+### Entity-Relationship Diagram
+Below is the Entity-Relationship Diagram (ERD) showcasing the data model:
+
+![Entity-Relationship Diagram](ERD)
+
 ---
 
 ## Analysis & [Interactive Dashboard Design](https://public.tableau.com/views/DublinEmergencyServices/DublinFireBrigadeCallOutsDashboard)
